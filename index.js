@@ -1,6 +1,7 @@
 var recipes = { dessert: 'cookies' }
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  object 
-  return 
+  Object.key = value
+
+  return
 }
